@@ -1,0 +1,39 @@
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.env
+
+# Database
+
+*.db
+
+# Node
+
+node_modules/
+
+# Build
+
+dist/
+build/
+
+# VSCode
+
+.vscode/
+
+# Logs
+
+*.log
+
+# Uploaded Evidence
+
+backend/uploaded_evidence/
+
+# OS
+
+.DS_Store
+Thumbs.db
